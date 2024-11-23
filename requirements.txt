@@ -1,0 +1,6 @@
+coverage
+gradio
+gradio_client
+opencv-python
+requests
+
